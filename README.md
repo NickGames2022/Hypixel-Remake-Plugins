@@ -3,6 +3,7 @@ Some Hypixel Plugins that I remade, Source code will be here eventually. For now
 
 
 Hypixel Rank Gifting Plugin: https://www.spigotmc.org/resources/rank-gifting.126384/
+
 Hypixel Rank Color Plugin: Coming Soon
 
 
