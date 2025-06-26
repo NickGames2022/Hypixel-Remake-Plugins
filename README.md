@@ -4,6 +4,8 @@ Some Hypixel Plugins that I remade, Source code will be here eventually. For now
 
 Hypixel Rank Gifting Plugin: https://www.spigotmc.org/resources/rank-gifting.126384/
 
+Hypixel Above Head Status Plugin: 
+
 Hypixel Rank Color Plugin: Coming Soon
 
 
@@ -13,9 +15,6 @@ Hypixel Friend Plugin: Coming Soon
 
 Hypixel WatchDogReport Plugin: Coming Soon
 Hypixel StaffPunch Plugin: Coming Soon
-
-
-Hypixel HeadTitle Plugin: Coming Soon
 
 
 Hypixel Staff/Fun Commands Plugin (Coming Soon):
