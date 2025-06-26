@@ -1,18 +1,12 @@
 # Hypixel-Remake-Plugins
-Some Hypixel Plugins that I remade, Source code will be here eventually. For now just Spigot Links so that people can easily find it.
-\n
-\n
-Hypixel Rank Gifting Plugin: https://www.spigotmc.org/resources/rank-gifting.126384/
-Hypixel Rank Color Plugin: Coming Soon
-\n
+Some Hypixel Plugins that I remade, Source code will be here eventually. For now just Spigot Links so that people can easily find it.\
+Hypixel Rank Gifting Plugin: https://www.spigotmc.org/resources/rank-gifting.126384/ \
+Hypixel Rank Color Plugin: Coming Soon\
 Hypixel Guild Plugin: Coming Soon
-Hypixel Friend Plugin: Coming Soon
-\n
+Hypixel Friend Plugin: Coming Soon\
 Hypixel WatchDogReport Plugin: Coming Soon
-Hypixel StaffPunch Plugin: Coming Soon
-\n
-Hypixel HeadTitle Plugin: Coming Soon
-\n
+Hypixel StaffPunch Plugin: Coming Soon\
+Hypixel HeadTitle Plugin: Coming Soon\
 Hypixel Staff/Fun Commands Plugin (Coming Soon):
 - /chat staff
 - /silence
@@ -20,12 +14,10 @@ Hypixel Staff/Fun Commands Plugin (Coming Soon):
 - /launch
 - /lightningstick
 - /warmode
-- /chatgame
-\n
+- /chatgame\
 - /fly
 - /firework
-- /boop
-\n
+- /boop\
 - Lobby Join Message
 - Karma Points
 - Chat Emojis
