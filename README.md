@@ -4,7 +4,7 @@ Some Hypixel Plugins that I remade, Source code will be here eventually. For now
 
 Hypixel Rank Gifting Plugin: https://www.spigotmc.org/resources/rank-gifting.126384/
 
-Hypixel Above Head Status Plugin: 
+Hypixel Above Head Status Plugin: https://www.spigotmc.org/resources/above-head-status.126415/
 
 Hypixel Rank Color Plugin: Coming Soon
 
