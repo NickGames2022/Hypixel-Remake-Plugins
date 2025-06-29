@@ -35,8 +35,3 @@ Hypixel Staff/Fun Commands Plugin (Coming Soon):
 - /fly
 - /firework
 - /boop
-
-  
-
-- Karma Points
-- Chat Emojis
